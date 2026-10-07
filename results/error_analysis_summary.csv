@@ -1,0 +1,7 @@
+model,training_condition,true_negatives,false_positives,false_negatives,true_positives
+Naive Bayes,Original,966,0,17,132
+Naive Bayes,Balanced,956,10,11,138
+Logistic Regression,Original,965,1,18,131
+Logistic Regression,Balanced,962,4,12,137
+SVM,Original,964,2,15,134
+SVM,Balanced,963,3,12,137
