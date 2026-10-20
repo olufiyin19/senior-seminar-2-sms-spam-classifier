@@ -1,0 +1,25 @@
+model,true_label,change_category,count
+Naive Bayes,ham,Unchanged correct,956
+Naive Bayes,ham,Unchanged error,0
+Naive Bayes,ham,Corrected by oversampling,0
+Naive Bayes,ham,Introduced by oversampling,10
+Naive Bayes,spam,Unchanged correct,132
+Naive Bayes,spam,Unchanged error,11
+Naive Bayes,spam,Corrected by oversampling,6
+Naive Bayes,spam,Introduced by oversampling,0
+Logistic Regression,ham,Unchanged correct,962
+Logistic Regression,ham,Unchanged error,1
+Logistic Regression,ham,Corrected by oversampling,0
+Logistic Regression,ham,Introduced by oversampling,3
+Logistic Regression,spam,Unchanged correct,131
+Logistic Regression,spam,Unchanged error,12
+Logistic Regression,spam,Corrected by oversampling,6
+Logistic Regression,spam,Introduced by oversampling,0
+SVM,ham,Unchanged correct,963
+SVM,ham,Unchanged error,2
+SVM,ham,Corrected by oversampling,0
+SVM,ham,Introduced by oversampling,1
+SVM,spam,Unchanged correct,134
+SVM,spam,Unchanged error,12
+SVM,spam,Corrected by oversampling,3
+SVM,spam,Introduced by oversampling,0
